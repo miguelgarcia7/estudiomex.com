@@ -4,7 +4,7 @@ Error: File to import not found or unreadable: ~bootstrap/scss/bootstrap.
          /Applications/Adobe Dreamweaver CC 2017/Configuration/SassFrameworks/bourbon
          /Applications/Adobe Dreamweaver CC 2017/Configuration/SassFrameworks/neat
          /Applications/Adobe Dreamweaver CC 2017/Configuration/SassFrameworks/base
-        on line 9 of /Users/miguelgarcia/Personal/EstudioMex/www.estudiomex.com/resources/assets/sass/app.scss
+        on line 9 of /Users/miguelgarcia/Personal/EstudioMex/estudiomex.com/resources/assets/sass/app.scss
 
 4: 
 5: // Variables
@@ -19,7 +19,7 @@ Error: File to import not found or unreadable: ~bootstrap/scss/bootstrap.
 14: }
 
 Backtrace:
-/Users/miguelgarcia/Personal/EstudioMex/www.estudiomex.com/resources/assets/sass/app.scss:9
+/Users/miguelgarcia/Personal/EstudioMex/estudiomex.com/resources/assets/sass/app.scss:9
 /Applications/Adobe Dreamweaver CC 2018/Adobe Dreamweaver CC 2018.app/Contents/Resources/gems/rubygems/gems/sass-3.4.24/lib/sass/tree/import_node.rb:67:in `rescue in import'
 /Applications/Adobe Dreamweaver CC 2018/Adobe Dreamweaver CC 2018.app/Contents/Resources/gems/rubygems/gems/sass-3.4.24/lib/sass/tree/import_node.rb:45:in `import'
 /Applications/Adobe Dreamweaver CC 2018/Adobe Dreamweaver CC 2018.app/Contents/Resources/gems/rubygems/gems/sass-3.4.24/lib/sass/tree/import_node.rb:28:in `imported_file'
@@ -56,4 +56,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: File to import not found or unreadable: ~bootstrap/scss/bootstrap.\A        Load paths:\A          /Applications/Adobe Dreamweaver CC 2017/Configuration/SassFrameworks/bourbon\A          /Applications/Adobe Dreamweaver CC 2017/Configuration/SassFrameworks/neat\A          /Applications/Adobe Dreamweaver CC 2017/Configuration/SassFrameworks/base\A         on line 9 of /Users/miguelgarcia/Personal/EstudioMex/www.estudiomex.com/resources/assets/sass/app.scss\A \A 4: \A 5: // Variables\A 6: @import \"variables\";\A 7: \A 8: // Bootstrap\A 9: @import '~bootstrap/scss/bootstrap';\A 10: \A 11: .navbar-laravel {\A 12:   background-color: #fff;\A 13:   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);\A 14: }"; }
+  content: "Error: File to import not found or unreadable: ~bootstrap/scss/bootstrap.\A        Load paths:\A          /Applications/Adobe Dreamweaver CC 2017/Configuration/SassFrameworks/bourbon\A          /Applications/Adobe Dreamweaver CC 2017/Configuration/SassFrameworks/neat\A          /Applications/Adobe Dreamweaver CC 2017/Configuration/SassFrameworks/base\A         on line 9 of /Users/miguelgarcia/Personal/EstudioMex/estudiomex.com/resources/assets/sass/app.scss\A \A 4: \A 5: // Variables\A 6: @import \"variables\";\A 7: \A 8: // Bootstrap\A 9: @import '~bootstrap/scss/bootstrap';\A 10: \A 11: .navbar-laravel {\A 12:   background-color: #fff;\A 13:   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);\A 14: }"; }
